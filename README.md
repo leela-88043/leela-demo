@@ -1,2 +1,2 @@
 # leela-demo
-this is a demo for git and git hub repository
+this is a demo for git and git hub repository.
